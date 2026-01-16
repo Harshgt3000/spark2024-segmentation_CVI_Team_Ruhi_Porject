@@ -1,0 +1,31 @@
+# Model weights (too large)
+*.pth
+*.pt
+*.ckpt
+
+# Submissions and predictions
+*.zip
+*.npz
+predictions*/
+submission*/
+
+# Data folders
+data/
+outputs/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+*.out
+*.err
+
+# OS files
+.DS_Store
+Thumbs.db
